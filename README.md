@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rashid262 
+- 👋 Hi, I'm Mohammad Rashid Ansari 
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning JavaScrip
-- 📫 How to reach me Whatsapp
+- 🌱 I’m currently learning JavaScript
+
 
 <!---
 rashid262/rashid262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
